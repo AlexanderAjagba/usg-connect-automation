@@ -1,2 +1,2 @@
 # usg-connect-automation
-macOS automation script for Georgia Tech employees to quickly log into USG Connect/HCM SSO
+Personal macOS automation script for USG employees to quickly log into USG Connect/HCM SSO
